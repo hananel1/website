@@ -2580,12 +2580,12 @@ const Cs = () => {
 let vt = J([])
   , Yt = [{
     id: 3,
-    name: "SampleA",
+    name: "coda",
     type: "url",
-    url: asset_main_url + "vrm/SampleA.vrm",
-    icon: asset_main_url + "vrm/SampleA.png",
-    source: "https://hub.vroid.com/en/characters/2843975675147313744/models/5644550979324015604",
-    author: "\uC544\uAE30\uC950\uC791\uC5C5\uC18C",
+    url: "https://hananel1.github.io/website/femaled.vrm",
+    icon: "https://hananel1.github.io/website/logo.png",
+    source: "https://hananel1.github.io",
+    author: "coda",
     color: null
 }, {
     id: 2,
